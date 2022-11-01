@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "admin",
+    "username": "root",
     "password": "Tjdwns003!",
     "database": "artasy",
-    "host": "artasy.cb3zwabanl2t.ap-northeast-2.rds.amazonaws.com",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
